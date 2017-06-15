@@ -1,0 +1,10 @@
+{
+  "name": "emittingHello",
+  "description": "Emitting Hello World",
+  "contexts": [
+    "world"
+  ],
+  "plugins" : [
+    "emitter1"
+  ]
+}

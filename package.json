@@ -1,0 +1,22 @@
+{
+  "name": "pisco-test-framework-tests",
+  "version": "0.1.0",
+  "description": "Test recipe for framework test",
+  "scripts": {
+    "deps": "npm install",
+    "test": "node_modules/.bin/mocha -u tdd --recursive"
+  },
+  "keywords": [
+    "pisco",
+    "piscosour-recipe"
+  ],
+  "author": "QPA",
+  "license": "Apache Licence",
+  "preferGlobal": true,
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "pisco-callback-to-promise": "^0.1.9",
+    "piscosour": "^1.0.0"
+  }
+}

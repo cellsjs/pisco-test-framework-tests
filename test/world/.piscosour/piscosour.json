@@ -1,0 +1,12 @@
+{
+  "params": {
+    "priorityOrder": {
+      "firstPriority": ".piscosour/piscosourJsonWorkingDir",
+      "secondPriority": ".piscosour/piscosourJsonWorkingDir",
+      "thirdPriority": ".piscosour/piscosourJsonWorkingDir"
+    },
+    "ninethPriority": ".piscosour/piscosourJsonWorkingDir",
+    "boolean": true,
+    "boolean2": false
+  }
+}
